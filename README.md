@@ -27,7 +27,7 @@ Mobile - Screen Width:375px
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Desktop-first workflow
+- Mobile-first workflow
 
 
 
